@@ -1219,6 +1219,17 @@ section.lazy-placeholder:after {
 .cid-rPxkrSP0Mn H4 {
   color: #232323;
 }
+.cid-rPBJ6WBfOj {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rPBJ6WBfOj .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rPBJ6WBfOj H2 {
+  text-align: center;
+}
 .cid-rPxl4dh7Gt {
   padding-top: 60px;
   padding-bottom: 90px;
@@ -1368,8 +1379,8 @@ section.lazy-placeholder:after {
   text-align: left;
 }
 .cid-rPxm9oHDRS {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 105px;
+  padding-bottom: 105px;
   background-color: #efefef;
 }
 .cid-rPxm9oHDRS .mbr-section-subtitle,
@@ -1434,8 +1445,8 @@ section.lazy-placeholder:after {
   opacity: .5;
 }
 .cid-rPxlZeWjcM {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 105px;
+  padding-bottom: 105px;
   background-color: #ffffff;
 }
 .cid-rPxlZeWjcM h2 {
@@ -1509,8 +1520,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rPyK6uzeST {
-  padding-top: 60px;
-  padding-bottom: 0px;
+  padding-top: 90px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-rPyK6uzeST .mbr-section-subtitle {
@@ -1536,7 +1547,7 @@ section.lazy-placeholder:after {
 }
 .cid-rPyK1ol6O9 {
   padding-top: 30px;
-  padding-bottom: 60px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
 @media (min-width: 992px) {
@@ -1778,28 +1789,13 @@ section.lazy-placeholder:after {
 .cid-rPxmg9P657 textarea.form-control {
   min-height: 188px;
 }
-.cid-rPyimZP9Gx {
-  padding-top: 30px;
-  padding-bottom: 30px;
+.cid-rPBOctuUxe {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-rPyimZP9Gx .line {
-  background-color: #149dcc;
-  color: #149dcc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-rPyimZP9Gx .section-text {
-  padding: 2rem 0;
-}
-.cid-rPyimZP9Gx .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rPyimZP9Gx .inner-container {
-    width: 100% !important;
-  }
+.cid-rPBOctuUxe .mbr-section-subtitle {
+  color: #767676;
 }
 .cid-rPyfOSXLaf {
   padding-top: 45px;

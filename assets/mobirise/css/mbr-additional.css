@@ -879,7 +879,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #f9f295;
+  background-color: #465052;
 }
 .cid-rPxjp6Bh3m button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -959,7 +959,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-rPxjp6Bh3m .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 6.4rem);
+    max-height: calc(98.5vh - 5.3rem);
   }
 }
 .cid-rPxjp6Bh3m .collapsed button.navbar-toggler {
@@ -1118,11 +1118,18 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-rPxjFZDDBT {
-  background: linear-gradient(45deg, #e4d295, #ff3366);
+  background: linear-gradient(45deg, #f7ed4a, #149dcc);
 }
 .cid-rPxjFZDDBT .mbr-section-subtitle {
   font-style: italic;
   letter-spacing: 1rem;
+}
+.cid-rPxjFZDDBT .mbr-text,
+.cid-rPxjFZDDBT .mbr-section-btn {
+  color: #232323;
+}
+.cid-rPxjFZDDBT .mbr-section-title {
+  color: #232323;
 }
 .cid-rPxkrSP0Mn {
   padding-top: 90px;
@@ -2074,7 +2081,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #f9f295;
+  background-color: #465052;
 }
 .cid-rPxjp6Bh3m button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2154,7 +2161,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-rPxjp6Bh3m .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 6.4rem);
+    max-height: calc(98.5vh - 5.3rem);
   }
 }
 .cid-rPxjp6Bh3m .collapsed button.navbar-toggler {
@@ -2497,7 +2504,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #f9f295;
+  background-color: #465052;
 }
 .cid-rPCjmkRg4B button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2577,7 +2584,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-rPCjmkRg4B .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 6.4rem);
+    max-height: calc(98.5vh - 5.3rem);
   }
 }
 .cid-rPCjmkRg4B .collapsed button.navbar-toggler {
